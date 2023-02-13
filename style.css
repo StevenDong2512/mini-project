@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(50, 69, 127);
+}
+
+#lp-image {
+    max-width: 80%;
+}
+
+.center {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #37aac4;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(207, 233, 237);
+}
+
